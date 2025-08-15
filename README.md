@@ -1,7 +1,7 @@
 # Digital-Marketing-Project
 About digital marketing data analysis
 
-GA4APIDataPull.pynb file contains code to do foloowing -
+GA4APIDataPull.pynb file contains code to do following -
     -Automatically fetch user behaviour analytics data of any live hosted web site (Business, Merchandise or others) to pyhton IDE using GA4 API. 
     
 User has to do following steps to use this file:
