@@ -38,6 +38,8 @@ This project demonstrates a **complete data engineering + analytics workflow**, 
 ### 📑 Documentation  
 - **`ReadMe.md`** → Project documentation (this file).  
 
+### 📑 Dashboard 
+    Screenshot 2025-08-21 232534.png
 ---
 
 ## ⚙️ ETL Workflow  
