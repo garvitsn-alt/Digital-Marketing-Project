@@ -144,4 +144,4 @@ This project demonstrates a **complete data engineering + analytics workflow**, 
 
 ---
 
-👨‍💻 Author: [Your Name]  
+👨‍💻 Author: Garvit Saini - Data Analyst
